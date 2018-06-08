@@ -1,0 +1,60 @@
+				www.RoboCore.net
+
+Parabéns por adquirir o Arduino Kit Iniciante da RoboCore!
+
+Antes de iniciar o uso do Arduino e do Arduino Kit Iniciante, você deve instalar o Java, caso não o tenha instalado, em seu  computador. 
+
+Para instalar o Java clique duas vezes sobre o icone "Instalador_Java" que está dentro da pasta raíz deste CD ou entre em: http://www.java.com/pt_BR/download/windows_xpi.jsp?locale=pt_BR&host=www.java.com
+
+Feito isto, você deve ter a versão mais nova do ambiente de desenvolvimento Arduino. Dentro deste CD existe a verão 1.0.3 para Windows, MAC e Linux 32 bits que estão na pasta "Ambiente de Desenvolvimento". Para checar se existe alguma nova versão, basta ir ao endereço: http://arduino.cc/en/Main/Software
+
+Agora, conecte a placa Arduino ao seu computador usando o cabo USB. O LED verde (com a inscrição PWR) deverá se acender.
+
+Feito isto, você deverá instalar os drivers.
+
+Instalando drivers para o Arduino Uno nos sistemas Windows 7, Vista e XP: 
+
+- Conecte sua placa e espere o Windows começar o processo de instalação de drivers. Após algum tempo, o processo irá falhar, não importando o que você faça. 
+
+- Clique em Iniciar e abra o "Painel de Controle". 
+
+- No "Painel de Controle", vá até "Sistema". Abrirá a janela "Propriedades de Sistema", acesse a aba "Hardware" e clique no botão "Gerenciador de dispositivos". 
+
+- Vá até "Portas (COM & LPT). Você deverá ver uma porta aberta chamada " Arduino UNO (COMxx). 
+
+- Clique com o botão direito na porta e escolha a opção " Atualizar Driver". 
+
+- Então escolha a opção "Browse my computer for driver software". 
+
+- Finalmente, navegue até o driver, chamado "ArduinoUNO.inf", localizado na sub-pasta Drivers, da pasta Arduino. 
+
+- O Windows irá terminar a instalação apartir daqui. 
+
+Instalando drivers para Arduino Duemilanove, Mini ou Diecimila nos sitemas Windows 7, Vista ou XP 
+
+- Quando você conectara placa, o Windows irá inicializar o processo de instalação do driver ( somente se o Arduino não tenha sido instalado anteriormente). 
+
+- No Windows Vista, o driver será automaticamente baixado e instalado. 
+
+- No XP, o "Assistente para instalação de hardware" irá abrir: 
+
+- Quando surgir a pergunta "O Windows pode se conectar ao site Windows Update para procurar software?", responda "Não, não agora" e clique em avançar. 
+
+- Selecione "Instalar de uma lista ou local especifico" e avance. 
+
+- Confirme se "Procurar o melhor driver nestes locais" esta marcado; desmarque a opção "Pesquisar mídia removível". Marque "Incluir este local na pesquisa:" e navegue até a pasta "Arduino" (a descompactada) e procure a subpasta "drivers/FTDI USB Drivers". Avance. 
+
+- O assistente irá procurar pelo driver e irá dizer que um "USB Serial Converter" foi encontrado. Clique em "Finalizar". 
+
+- Uma nova janela de assistência irá aparecer. Siga os mesmos passos, indicando os mesmos camimnhos. Desta vez, uma " USB Serial Port" será encontrada. Clique em "Finalizar". 
+
+Agora você deve abrir o Manual do Arduino Kit Iniciante.
+Para abrir o Manual do Arduino Kit Iniciante você precisa ter instalado em seu computador o Adobe Reader, para ler arquivos no formato PDF. O instalador deste programa está dentro da pasta raíz deste CD e intitula-se "Instalador_Adobe_Reader_Para_Ler_PDF". Instale-o e veja o manual com os 10 experimentos!
+
+
+Pronto! Agora você já pode usufruir do Arduino Kit Iniciante da RoboCore.
+
+Estamos sempre tentando melhorar o Arduino Kit Iniciante. Seus comentários são muito interessante para nós. Se você teve algum problema, ou tem alguma sugestão ou crítica, ou até mesmo um comentário ou dúvida, por favor envie um e-mail para info@robocore.net
+
+
+				www.RoboCore.net
